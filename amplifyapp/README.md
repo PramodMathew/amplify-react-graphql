@@ -1,3 +1,4 @@
+# password for login amplify@456 and username is pramod and email is pramod.mathew@outlook.com
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
